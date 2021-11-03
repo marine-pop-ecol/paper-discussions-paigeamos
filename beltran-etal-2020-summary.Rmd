@@ -1,0 +1,144 @@
+---
+title: "Beltran et al. (2020) Paper Summary"
+author: "Paige Amos, Andrew Bickell, Beth Blanchette, Gena Desjarin"
+date: "11/03/2021"
+output: pdf_document
+---
+\newpage
+
+### **Broad Questions** ###
+
+How has this course (BMSC) impacted your plan to go to grad school?
+
+This paper wants to put more money into field courses, why not focus on improving teachers broadly, promoting active learning like most Bamfield courses?
+
+What is it about ecology that makes us feel field courses are more required for this?
+
+Did this paper convince you that field schools decrease achievement gaps?
+
+Considering that the students from URMs, EOP and FIF who get into field schools likely have the financial ability and high enough GPAs to get into these courses, does this change the reliability of the data?
+
+### **Changing Viewpoints** ###
+
+The questions introduced a healthy skepticism in the results. The class recognized that there were flaws in interpreting that field school actually narrows demographic gaps. It also shifted the conversation to the importance of statistical significance when interpreting results. Further, these questions drew the class’s attention to the tables in the paper that were likely overlooked during our first readings.
+
+### **Connections** ###
+
+The broad questions being asked were answered using interesting connections from the paper. When asked if more money should be put into reforming lectures to be more engaging rather than field courses, students used the results and discussion to relate to the improvement of self efficacy from field schools. Our class agreed field courses are important for improving scientific skills through a more hands on experience. Although they did not did not fully agree with the methods of reporting self competency as it could show bias, the majority of the author’s hypothesis that field courses increase self-efficacy.
+
+### **Epistemology** ###
+
+Reading this paper made it more evident that what we consider “valid” knowledge in science is never an absolute truth, but that papers like this try to decrease uncertainty to the point where we can be reasonably sure that our findings represent reality. The more we discuss scientific literature in depth, the more critical we become of interpreting an author’s findings as “truth”. What is difficult for us as undergraduates with only an introductory knowledge, is that we often don’t know enough about statistics or specific methods to gauge the level of uncertainty. These types of paper discussions help us improve our ability to think critically about scientific knowledge.
+
+### **How Science Happens** ###
+
+We think that its important to note that if certain scientists read a paper and are not experts in the specific methods it may cause them to conclude something that was not actually the outcome of the paper. Or conversely, if a scientist reads a paper and does not fully understand the methods they could falsely accept the result. This paper made it more clear how science is always a collaborative process where peer review and multiple people doing research on the same topic makes our broader understanding stronger. 
+
+\newpage
+
+# **Pre-Discussion Preparation** #
+
+
+## **Brief overview** ##
+
+
+**Objectives of the paper - Beth**
+
+To examine demographic gaps in ecology and evolutionary biology (EEB) major completion, college graduation, and GPAs for students who did and did not enroll in field courses. 
+Determine if under-represented demographic groups were less likely to enroll in field courses. 
+Determine if under-represented demographic groups were more likely to feel increased competency in science-related tasks (hereafter, self-efficacy) after participating in field courses.
+
+**Methods - Beth**
+
+Dataset was students attending University of California Santa Cruz
+The authors used demographic data of student enrollment, achievement, retention, and graduation to examine how under-represented minorities compared to their peers in these categories.
+A survey was used to calculate self-efficacy: students rated their responses on a Likert Scale at the beginning and end of the studied courses. This showed a difference in self-efficacy at enrollment and improvement at the end of the course.
+
+**Main findings - Gena** 
+
+They found that: 
+
+1. Students who entered the Ecology and Evolutionary program from under-represented groups, other than women, were less likely to graduate from the EEB  program than their peers.
+
+2. Under-represented groups were less likely to enroll in field courses than their peers.
+
+3. Field courses narrowed achievement and completion gaps between under-represented minorities and other students. 
+
+4. Under-represented groups began field courses with lower self-efficacy, but it increased more and by the end of the course their self-reported confidence was comparable to their peers.
+
+## **Key terms to know** ##
+
+**Acronyms - Andrew**  
+
+STEM: Science, Technology, Engineering, and Math
+EEB: Ecology, Evolutionary Biology. The college major of interest in this study. 
+URM: Under-represented minority. Students who identify primarily as African American/ Black, American Indian/Alaskan Native, and Hispanic/Latino.  
+FIF: First-in-family status. First-in-family to attend college. 
+EOP:Educational Opportunity Program. Whether they are part of the Educational Opportunity Program based on family income, undocumented, and foster care status. 
+
+**Other key terms - Paige**
+
+Demographic: Particular portion of a population with a shared characteristic (age, gender, race, etc)
+Self-efficacy:  A feeling of increased competency in science-related tasks
+
+Matriculate: To be enrolled at a college or university (matriculating is essentially students attending or studying at a college or university) 
+
+Field courses: Courses based around field-based learning that facilitate hands-on activities and inquiry-based research. These courses focus on replacing a competitive model of learning with a team model of achievement in which collaboration and shared learning are valued
+
+“Leaky pipeline”: A leaky pipeline is a system designed to channel something from one place to another that is flawed in such a way that it loses some quantity of what it carries before it reaches the destination. Ex. Retention gap is having a smaller number of people graduate from EEB than the number of people who originally enrolled in EEB.
+
+## **General questions** ##
+
+1. What question are the authors asking and what was their hypothesis? Why would a paper like this be necessary? Why do you think its important that people from a variety of racial and ethnic backgrounds be represented in STEM, or more specifically in EEB? 
+
+2. What do you think some of the benefits of field courses are for students and for the scientific community in general? Can you think of any reasons why traditional lecture-based education is still the norm? Are there any benefits to learning in this way?  
+
+3. Can you think of any potential barriers that keep students from accessing field schools? Equipment, certifications, remote having obligations Specifically, are there any barriers you can think of that apply more so to students who come from a minority background? 
+
+4. This study compared demographic data of students who graduated within 5 years. Do you see any potential problems in not including students who may have taken longer than 5 years to graduate? 
+
+5. This study collected information on students who identify as URM, FIF and EOP from self-reported data and they collected survey data as well. Do you see any potential issues with collecting data this way? Is there any other method you can think of that they could have used to collect this data?  
+
+
+## **Key figures** ##
+
+
+**Figure 1 - Paige**
+
+Firstly, what is being addressed in this figure? What do the circles represent and why are they  overlapping and different sizes? 
+
+Which of these results stands out from the others? How might this difference need to be considered when determining who faces barriers in academic institutions?
+
+Did anyone catch why people with other gender identities were not included in the dataset for these results? Do you think this was the correct decision? 
+
+Do you think this is an effective way to visualize the data?
+
+**Figure 3 - Beth**
+
+What are the authors trying to represent with these graphs? What does the black line represent and what does the blue line represent? What patterns do we notice? 
+
+Do any of these four results stand out as being different from the others? Can you think of some possible mechanisms behind this observed pattern? What are some barriers to enrollment in field courses?
+
+How can this study be used to inform colleges and universities ways in which they can minimize achievement and retention gaps between underrepresented minorities?
+
+**Figure 4 - Gena**
+
+What question is being addressed in this figure? What do each of the bars on this graph represent? 
+Are there any patterns that stand out from the figure? What types of courses resulted in the greatest increase in self-efficacy? 
+
+Why do you think they separated field courses with different units? 
+
+Why do we see such a low increase in science career 
+
+What are the issues with self reporting data especially on a scale from 1-5? They concluded from these results that field courses increased self-efficacy in students. Do you think this is a fair way to interpret these results? 
+
+**Figure 5 - Andrew**
+
+What question is being addressed in this figure? What do the dots and squares on the scale represent? 
+
+What are the issues with self reporting data especially on a scale from 1-5?
+
+From this figure, the researchers concluded that this field course closed the knowledge gap between underrepresented minority students and their peers. Do you think this graph supports this conclusion?  
+
+
+
